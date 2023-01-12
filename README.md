@@ -1,4 +1,4 @@
-<h1 align="center">📊 Calculadora de Idade 📊</h1>
+<h1 align="center">📊 Calculadora de idade 📊</h1>
 <div align="center">
 <img src="src/age-calculator1.png"> <br>
 <h3 align="center"> Para calcular a idade do usuário, são solicitados os valores referentes ao dia, mês e ano de nascimento. Desta forma, é assim que fica preenchido: </h3>
